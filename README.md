@@ -1,1 +1,0 @@
-# Lukomskaya_Lab
