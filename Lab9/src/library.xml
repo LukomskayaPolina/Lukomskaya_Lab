@@ -1,0 +1,23 @@
+<library>
+    <book id="1">
+        <title>Война и мир</title>
+        <author>Лев Толстой</author>
+        <year>1869</year>
+        <genre>Роман</genre>
+        <price>1200.50</price>
+    </book>
+    <book id="2">
+        <title>Преступление и наказание</title>
+        <author>Федор Достоевский</author>
+        <year>1866</year>
+        <genre>Роман</genre>
+        <price>950.00</price>
+    </book>
+    <book id="3">
+        <title>Мастер и Маргарита</title>
+        <author>Михаил Булгаков</author>
+        <year>1967</year>
+        <genre>Фэнтези</genre>
+        <price>1300.75</price>
+    </book>
+</library>
